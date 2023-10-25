@@ -111,6 +111,10 @@ scheduleData:
           start: 11:00 AM
           end: 12:30 PM
           location: LT 4 Level 6
+        - name: Lab
+          start: 2:00 PM
+          end: 5:00 PM
+          location: Computer Lab Level 6  
     - name: Friday
       events:
 
